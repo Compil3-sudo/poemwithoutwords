@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#bg {
+  background-image: url("images/login.png");
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#aboutme {
+  margin-left: 30px;
+}
+
+#profiletable {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+#forget {
+  margin-left: auto !important;
+}
+
+h1 {
+  padding-top: 2%;
+  color: black;
+  padding-bottom: 2rem;
+  font-weight: bold;
+}
+a {
+  color: #333;
+}
+a:hover {
+  color: #26e2e8;
+  text-decoration: none;
+}
+.form-control:focus {
+  color: #000;
+  background-color: #fff;
+  border: 2px solid #26e2e8;
+  outline: 0;
+  box-shadow: none;
+}
+
+.btn {
+  background: #26e2e8;
+  border: #26e2e8;
+}
+.btn:hover {
+  background: #26e2e8;
+  border: #26e2e8;
+}
