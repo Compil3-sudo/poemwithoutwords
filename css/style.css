@@ -3,7 +3,7 @@ body {
 }
 
 #bg {
-  background-image: url("/images/login.png");
+  background-image: url("../images/login.png");
   position: fixed;
   left: 0;
   top: 0;
