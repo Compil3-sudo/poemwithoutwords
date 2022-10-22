@@ -29,6 +29,7 @@ body {
 }
 
 #profiletable {
+  text-align: left;
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
